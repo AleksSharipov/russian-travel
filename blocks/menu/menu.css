@@ -1,0 +1,16 @@
+.menu {
+  margin: 0;
+  padding: 0;
+  color: white;
+
+}
+
+
+@media screen and (max-width: 767px){
+  .menu {
+    min-height: 80%;
+    /* flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box; */
+  }
+}
