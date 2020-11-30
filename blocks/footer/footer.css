@@ -19,5 +19,6 @@
   .footer {
     /* min-height: 310px; */
     flex-direction: column;
+    margin-bottom: 24px;
   }
 }
