@@ -14,16 +14,17 @@
 
 @media screen and (max-width: 1279px){
   .intro {
-    margin-right: 294px;
-    /* margin-left: 48px; */
+    /* margin-right: 294px; */
+    /* margin-left: 0px; */
   }
 }
 
 @media screen and (max-width: 1023px){
   .intro {
-    align-self: center;
-    margin: 88px 0 0;
-    max-width: 720;
+    align-self: flex-start;
+    margin: 88px 0 0 24px;
+    max-width: 720px;
+
     /* margin-left: 48px; */
   }
 }
@@ -37,5 +38,3 @@
     margin-left: 24px; */
   }
 }
-
-
