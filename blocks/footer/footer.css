@@ -20,5 +20,7 @@
     /* min-height: 310px; */
     flex-direction: column;
     margin-bottom: 24px;
+    margin-top: 64px;
+    width: calc(100% - 32px);
   }
 }
