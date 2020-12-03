@@ -8,7 +8,7 @@
 }
 
 @media screen and (max-width: 767px){
-  .plamenu__linkce {
+  .menu__link {
     font-size: 24px;
     line-height: 24px;
   }

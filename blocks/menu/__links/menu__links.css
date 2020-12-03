@@ -11,5 +11,6 @@
   .menu__links {
     flex-direction: column;
     justify-content: space-evenly;
+    color: red;
   }
 }
