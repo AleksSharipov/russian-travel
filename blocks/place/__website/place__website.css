@@ -2,4 +2,11 @@
   text-decoration: none;
   color: #fff;
   margin-top: auto;
+  /* grid-area: place__website; */
 }
+
+/* @media screen and (max-width: 1023px){
+  .place__websiteace__title {
+    align-self: center;
+  }
+} */

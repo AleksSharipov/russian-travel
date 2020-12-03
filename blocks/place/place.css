@@ -1,11 +1,9 @@
 .place {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  /* grid-template-columns: repeat(2, minmax(320px, 460px)); */
+  grid-template-columns: repeat(2, minmax(320px, 460px));
   grid-template-rows: auto 1fr;
   row-gap: 48px;
   column-gap: 40px;
-  /* width: 984px; */
   margin: 80px auto 0;
 }
 
@@ -26,6 +24,7 @@
   .place {
     grid-template-columns:1fr;
     row-gap: 0;
+    /* grid-template-areas: none; */
   }
 }
 
